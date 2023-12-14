@@ -1,2 +1,2 @@
 # AGCCI-class
-My first repository.
+My AGCCI coding camp was fantastic.
